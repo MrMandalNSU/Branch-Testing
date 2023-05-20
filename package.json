@@ -1,0 +1,19 @@
+{
+  "name": "branchtesting",
+  "version": "1.0.0",
+  "description": "Test Line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMandalNSU/Branch-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMandalNSU/Branch-Testing/issues"
+  },
+  "homepage": "https://github.com/MrMandalNSU/Branch-Testing#readme"
+}
